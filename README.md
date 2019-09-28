@@ -10,4 +10,4 @@ All core java exmples uploaded in this location.
 8. Serialization examples
 9. Singleton examples
 10. Threads exampls
-11. How to create customized Array
+11. How to create customized ArrayList
